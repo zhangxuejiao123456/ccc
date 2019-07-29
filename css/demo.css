@@ -17,3 +17,11 @@ h1{
 	margin: 10px auto;
 
 }
+h2{
+	text-align: center;
+	color: pink;
+	width: 200px;
+	height: 200px;
+	background-color: skyblue;
+	margin: 10px auto;
+}
